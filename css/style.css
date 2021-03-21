@@ -16,11 +16,12 @@ body{
 }
 
 .navbar {
-    background-color: #298a08;
+    background-color: #fff;
+    font-weight: bold;
 }
 
 .quem-somos{
-    background-color: #8181f7;
+    background-color: var(--secondary);
     color: white;
 }
 
@@ -29,8 +30,12 @@ body{
     padding-top: 10px;
 }
 
+.servicos{
+    background-color: var(--light);
+}
+
 .parceiros {
-    background-color: #58faf4;
+    background-color:var(--secondary);
     color: white;
 }
 
